@@ -1,0 +1,6 @@
+{
+  "name": "Web Browser",
+  "description": "A sleek, minimal, and fully-featured Android web browser built with Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
